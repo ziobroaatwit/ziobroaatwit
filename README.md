@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @ziobroaatwit
-- 👀 I’m interested in ... Learning how to upscale anime
-- 🌱 I’m currently learning ... Data Science
-- 💞️ I’m looking to collaborate on ... Video Game Projects?
+I'm Aleks, a non-binary:raising_hand: Computer Science major. I make games in Unity and know things about Machine Learning.
 - Isn't it fate that my randomly generated picture looks like it could be Kirby?
-<!---
-ziobroaatwit/ziobroaatwit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="badges">
+  <a href="https://www.linkedin.com/in/aleksander-ziobro/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
