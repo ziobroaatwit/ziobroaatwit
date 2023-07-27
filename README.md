@@ -13,18 +13,20 @@ I'm Aleks, a non-binary:raising_hand: Computer Science major. I make games in Un
 Class Clash, A video game about fighting your classes (currently private due to work in progress status) -C#
 
 -https://github.com/connellatatwit/Class-Clash
+
 ![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/774dfee8-27bd-4b72-84cc-00dfa6002ccc)
 
 Journey To The Harvest, A tech demo video game meant for learning how to script shaders, implement, audio, and asset creation. - C#
 
 -https://github.com/ziobroaatwit/JourneyToTheHarvest
+
 ![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/2a0ab37f-47a5-4fe2-9d35-5f3d175c2be8)
 
 PUBG Placement Model Kaggle Challenge, a lesson in being humbled by ML and that Boosted Trees are great at tabular data - Python
 
 -https://github.com/ziobroaatwit/ADLx22FinalProject
 
-BugTrackerNeo, a proof of concept support ticket/bug tracking database system written in Python using Pandas, Numpy, and JSON.  #Python
+BugTrackerNeo, a proof of concept support ticket/bug tracking database system written in Python using Pandas, Numpy, and JSON. - Python
 
 -https://github.com/wanga4atwit/Software-Engineering-Bug-Tracker
 
