@@ -23,6 +23,10 @@ Journey To The Harvest, A tech demo video game meant for learning how to script 
 
 ![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/2a0ab37f-47a5-4fe2-9d35-5f3d175c2be8)
 
+-Cow-Tipping Simulator, a first attempt at working on a VR project with friends for a VR Jam
+
+![](https://cdn.discordapp.com/attachments/1121853402507399258/1124403286708060180/ezgif.com-video-to-gif_1.gif)
+
 PUBG Placement Model Kaggle Challenge, a lesson in being humbled by ML and that Boosted Trees are great at tabular data - Python
 
 -https://github.com/ziobroaatwit/ADLx22FinalProject
