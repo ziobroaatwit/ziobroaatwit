@@ -10,7 +10,7 @@ I'm Aleks, a non-binary:raising_hand: Computer Science major. I make games in Un
 ---
 ### Past Works:
 
-Class Clash, A video game about fighting your classes (currently private due to work in progress) -C#
+Class Clash, A video game about fighting your classes (currently private due to work in progress status) -C#
 
 -https://github.com/connellatatwit/Class-Clash
 ![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/774dfee8-27bd-4b72-84cc-00dfa6002ccc)
@@ -27,6 +27,8 @@ PUBG Placement Model Kaggle Challenge, a lesson in being humbled by ML and that 
 BugTrackerNeo, a proof of concept support ticket/bug tracking database system written in Python using Pandas, Numpy, and JSON.  #Python
 
 -https://github.com/wanga4atwit/Software-Engineering-Bug-Tracker
+
+![bee](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/b3ab658f-fb0c-4e33-8248-edb0843e8a6d)
 
 ---
 
