@@ -10,7 +10,7 @@ I'm Aleks, a non-binary:raising_hand: Computer Science major. I make games in Un
 ---
 ### Past Works:
 
-Class Clash, A video game about fighting your classes (currently private due to work in progress status) -C#
+Class Clash, A video game about fighting your classes (currently private due to work in progress status) - C#
 
 -https://github.com/connellatatwit/Class-Clash
 
