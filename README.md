@@ -42,6 +42,16 @@ A video game about fighting your classes (currently private due to work in progr
 ![image2](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/beb4a87f-ffb6-4e4e-a18e-b3dd4bca27f0)
 ![image3](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/06e6635a-9905-4c8c-9857-4cfc2d00f65e)
 
+## KirbyMania Chat Bot
+
+A chatbot about Kirby and Kirby related media built using IBM Watson technology, then inserted into HTML to showcase. The notebook can be found here below. - **HTML, JavaScript, Python**
+
+-https://colab.research.google.com/drive/1tSS7rMwj8zIW76FfzRNAaOFW8YT_PoQG?usp=sharing
+![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/a955b5d1-df81-465f-9e90-812105e1a9aa)![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/5184b4c8-157f-44e0-ba2d-3cbd3457ffeb)![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/b5087fd6-08ca-4b51-96cf-100e334b25ca)![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/1121c15b-5735-4f7d-a20a-6b50cd157e88)
+
+
+
+
 ## Journey To The Harvest
 
 A tech demo video game meant for learning how to script shaders, implement, audio, and asset creation. - C#
