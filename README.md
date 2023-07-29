@@ -54,7 +54,7 @@ A chatbot about Kirby and Kirby related media built using IBM Watson technology,
 
 ## Journey To The Harvest
 
-A tech demo video game meant for learning how to script shaders, implement, audio, and asset creation. - C#
+A tech demo video game meant for learning how to script shaders, implement, audio, and asset creation. - **C#**
 
 -https://github.com/ziobroaatwit/JourneyToTheHarvest
 
@@ -62,7 +62,7 @@ A tech demo video game meant for learning how to script shaders, implement, audi
 
 ## Cow-Tipping Simulator
 
-A first attempt at working on a VR project with friends for a VR Jam - C#
+A first attempt at working on a VR project with friends for a VR Jam - **C#**
 
 -https://github.com/ziobroaatwit/requiredVRJam
 
@@ -70,17 +70,40 @@ A first attempt at working on a VR project with friends for a VR Jam - C#
 
 ## PUBG Placement Model Kaggle Challenge
 
-A lesson in being humbled by ML and that Boosted Trees are great at tabular data - Python
+A lesson in being humbled by ML and that Boosted Trees are great at tabular data - **Python, Tensorflow, XGBoost**
 
 -https://github.com/ziobroaatwit/ADLx22FinalProject
 
 ## BugTrackerNeo
 
-A proof of concept support ticket/bug tracking database system written in Python using Pandas, Numpy, and JSON. - Python
+A proof of concept support ticket/bug tracking database system written in Python using Pandas, Numpy, and JSON. - **Python**
 
 -https://github.com/wanga4atwit/Software-Engineering-Bug-Tracker
 
 ![bee](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/b3ab658f-fb0c-4e33-8248-edb0843e8a6d)
+
+## Twitter Sentiment Analysis Project
+
+A project where we analyzed the sentiment of thousands of tweets using machine learning. - **Python, Tensorflow, Keras**
+
+-https://github.com/ziobroaatwit/DSC-Final-Project
+
+![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/5e52fddf-f502-4da4-8895-203872c695fc)
+
+
+## PongML
+
+A trained ML model that plays a game of Pong using Regression SVR. - **Python, Tensorflow, Keras, PyGame**
+
+-https://github.com/ziobroaatwit/Lab4-ML
+
+![InformalThornyKingsnake-size_restricted](https://user-images.githubusercontent.com/54987160/144730825-088d3b27-72c3-4b31-858f-cfdb2a583c89.gif)
+
+## TicTacToe
+
+My very first university project. Whenever I want to know how much I've grown as a software engineer, I look back at this humble, yet quite awful implementation of TicTacToe. - **Java**
+
+-https://github.com/ziobroaatwit/TicTacToe
 
 ---
 # :fire: My Stats :
