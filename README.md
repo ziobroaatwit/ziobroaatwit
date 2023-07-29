@@ -14,7 +14,6 @@ Class Clash, A video game about fighting your classes (currently private due to 
 
 -https://github.com/connellatatwit/Class-Clash
 
-
 ![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/774dfee8-27bd-4b72-84cc-00dfa6002ccc)
 
 Journey To The Harvest, A tech demo video game meant for learning how to script shaders, implement, audio, and asset creation. - C#
@@ -23,7 +22,9 @@ Journey To The Harvest, A tech demo video game meant for learning how to script 
 
 ![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/2a0ab37f-47a5-4fe2-9d35-5f3d175c2be8)
 
--Cow-Tipping Simulator, a first attempt at working on a VR project with friends for a VR Jam - C#
+Cow-Tipping Simulator, a first attempt at working on a VR project with friends for a VR Jam - C#
+
+-https://github.com/ziobroaatwit/requiredVRJam
 
 ![ezgif-2-94a100f96f](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/b6a7fdaa-f2dc-438c-8417-626eeb430369)
 
