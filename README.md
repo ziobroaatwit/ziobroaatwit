@@ -8,38 +8,6 @@ I'm Aleks, a non-binary:raising_hand: Computer Science major. I make games in Un
 </div>
 
 ---
-### Past Works:
-
-Class Clash, A video game about fighting your classes (currently private due to work in progress status) - C#
-
--https://github.com/connellatatwit/Class-Clash
-
-![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/774dfee8-27bd-4b72-84cc-00dfa6002ccc)
-
-Journey To The Harvest, A tech demo video game meant for learning how to script shaders, implement, audio, and asset creation. - C#
-
--https://github.com/ziobroaatwit/JourneyToTheHarvest
-
-![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/2a0ab37f-47a5-4fe2-9d35-5f3d175c2be8)
-
-Cow-Tipping Simulator, a first attempt at working on a VR project with friends for a VR Jam - C#
-
--https://github.com/ziobroaatwit/requiredVRJam
-
-![ezgif-2-94a100f96f](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/b6a7fdaa-f2dc-438c-8417-626eeb430369)
-
-PUBG Placement Model Kaggle Challenge, a lesson in being humbled by ML and that Boosted Trees are great at tabular data - Python
-
--https://github.com/ziobroaatwit/ADLx22FinalProject
-
-BugTrackerNeo, a proof of concept support ticket/bug tracking database system written in Python using Pandas, Numpy, and JSON. - Python
-
--https://github.com/wanga4atwit/Software-Engineering-Bug-Tracker
-
-![bee](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/b3ab658f-fb0c-4e33-8248-edb0843e8a6d)
-
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -61,7 +29,51 @@ BugTrackerNeo, a proof of concept support ticket/bug tracking database system wr
 </div>
 
 ---
-### :fire: My Stats :
+
+# Past Works:
+
+## Class Clash
+
+A video game about fighting your classes (currently private due to work in progress status) - **C#**
+
+-https://github.com/connellatatwit/Class-Clash
+
+![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/5042f08c-5f2e-4f2d-9089-7a38965eb82c)
+![image2](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/beb4a87f-ffb6-4e4e-a18e-b3dd4bca27f0)
+![image3](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/06e6635a-9905-4c8c-9857-4cfc2d00f65e)
+
+## Journey To The Harvest
+
+A tech demo video game meant for learning how to script shaders, implement, audio, and asset creation. - C#
+
+-https://github.com/ziobroaatwit/JourneyToTheHarvest
+
+![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/2a0ab37f-47a5-4fe2-9d35-5f3d175c2be8)
+
+## Cow-Tipping Simulator
+
+A first attempt at working on a VR project with friends for a VR Jam - C#
+
+-https://github.com/ziobroaatwit/requiredVRJam
+
+![ezgif-2-94a100f96f](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/b6a7fdaa-f2dc-438c-8417-626eeb430369)
+
+## PUBG Placement Model Kaggle Challenge
+
+A lesson in being humbled by ML and that Boosted Trees are great at tabular data - Python
+
+-https://github.com/ziobroaatwit/ADLx22FinalProject
+
+## BugTrackerNeo
+
+A proof of concept support ticket/bug tracking database system written in Python using Pandas, Numpy, and JSON. - Python
+
+-https://github.com/wanga4atwit/Software-Engineering-Bug-Tracker
+
+![bee](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/b3ab658f-fb0c-4e33-8248-edb0843e8a6d)
+
+---
+# :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ziobroaatwit&theme=burnt-neon)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ziobroaatwit&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
