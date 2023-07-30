@@ -31,6 +31,13 @@ I'm Aleks, a non-binary:raising_hand: Computer Science major. I make games in Un
 ---
 
 # Past Works:
+## Cat Facts With React
+
+I am teaching myself to use React, and warming back up to JS.
+
+-https://github.com/ziobroaatwit/CatFactsReact
+
+![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/89f7a2ac-c933-4604-8b1a-939add34a56c)
 
 ## Class Clash
 
