@@ -33,7 +33,7 @@ I'm Aleks, a non-binary:raising_hand: Computer Science major. I make games in Un
 # Past Works:
 ## Cat Facts With React
 
-I am teaching myself to use React, and warming back up to JS.
+I am teaching myself to use React, and warming back up to JS. - **JS, React**
 
 -https://github.com/ziobroaatwit/CatFactsReact
 
