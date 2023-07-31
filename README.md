@@ -108,7 +108,7 @@ A trained ML model that plays a game of Pong using Regression SVR. - **Python, T
 
 ## TicTacToe
 
-My very first university project. Whenever I want to know how much I've grown as a software engineer, I look back at this humble, yet quite awful implementation of TicTacToe. - **Java**
+My very first university project. Whenever I want to know how much I've grown as a software engineer, I look back at this humble, yet functional implementation of TicTacToe. - **Java**
 
 -https://github.com/ziobroaatwit/TicTacToe
 
