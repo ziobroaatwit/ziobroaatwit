@@ -1,4 +1,4 @@
-I'm Aleks, a new grad from Wentworth Institute of Technology with a Bachelor of Science in Computer Science. I make games in Unity and studied primarily topics covering Machine Learning. Always ready to learn new things, and the enjoy the fruit of the effort put in.
+I'm Aleks, a new grad from Wentworth Institute of Technology with a Bachelor of Science in Computer Science. I make games in Unity and studied primarily topics covering Machine Learning when pursuing a Data Science minor. Always ready to learn new things, and the enjoy the fruit of the effort put in.
 - Looking for work
 <div id="badges">
   <a href="https://www.linkedin.com/in/aleksander-ziobro/">
