@@ -1,5 +1,4 @@
-I'm Aleks, a non-binary:raising_hand: Computer Science major. I make games in Unity, studied primarily Machine Learning. Always ready to learn new things, and the fruit of the effort put in.
-- Isn't it fate that my randomly generated picture looks like it could be Kirby?
+I'm Aleks, a new grad from Wentworth Institute of Technology with a Bachelor of Science in Computer Science. I make games in Unity and studied primarily topics covering Machine Learning. Always ready to learn new things, and the enjoy the fruit of the effort put in.
 - Looking for work
 <div id="badges">
   <a href="https://www.linkedin.com/in/aleksander-ziobro/">
