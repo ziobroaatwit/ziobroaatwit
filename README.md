@@ -1,4 +1,4 @@
-I'm Aleks, a non-binary:raising_hand: Computer Science major. I make games in Unity and know things about Machine Learning. Always ready to learn new things, and the fruit of the effort put in.
+I'm Aleks, a non-binary:raising_hand: Computer Science major. I make games in Unity, studied primarily Machine Learning. Always ready to learn new things, and the fruit of the effort put in.
 - Isn't it fate that my randomly generated picture looks like it could be Kirby?
 - Looking for work
 <div id="badges">
