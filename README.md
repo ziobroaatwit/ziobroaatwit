@@ -36,7 +36,7 @@ I am teaching myself to use React, and warming back up to JS. - **JS, React**
 
 -https://github.com/ziobroaatwit/CatFactsReact
 
-![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/3708816a-7dca-4ea2-bdc0-f4056e6f204b)
+![image](https://github.com/ziobroaatwit/ziobroaatwit/assets/54987160/88388a4c-a0b8-410a-90f9-0d4e7ec1c26b)
 
 
 ## Class Clash
