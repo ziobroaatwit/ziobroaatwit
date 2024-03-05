@@ -1,4 +1,4 @@
-I'm Aleks, graduated from Wentworth Institute of Technology with a Bachelor of Science in Computer Science. I make games in Unity and studied primarily topics covering Machine Learning when pursuing a Data Science minor. Work at Harvard University now as a Collaboration Support Engineer
+I'm Aleks, graduated from Wentworth Institute of Technology with a Bachelor of Science in Computer Science. I make games in Unity and studied primarily topics covering Machine Learning when pursuing a Data Science minor. Work at Harvard University now as a Collaboration Services Engineer
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aleksander-ziobro/">
